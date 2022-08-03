@@ -1,6 +1,6 @@
 # Carats and Cake Engineering Exercise
 
-Carats product team manages both the business and customer facing features of our payments platform. At the core of our work is the understanding and implementation of full stack web development principles and best practices. 
+Carat's product team manages both the business and customer facing features of our payments platform. At the core of our work is the understanding and implementation of full stack web development principles and best practices. 
 
 We've designed this take home to get a sense of how you think and work as a developer. There is no one way to solve for the prompt below, but make sure to read this document thoroughly to understand how to succeed.
 
