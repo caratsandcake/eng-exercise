@@ -21,9 +21,11 @@ The only thing we will prescribe is that you use the [Stripe Checkout API](https
 ## Prompt
 
 You will be building a lightweight invoicing application. This application should allow a user to:
-1. Pay an outstanding invoice through a form using Stripe checkout.
-*AND*
-2. Check the status of a paid invoice. 
+1. View a list of all existing invoices.
+2. Create a new invoice.
+3. Edit or delete any invoice. 
+4. Pay an outstanding invoice through a form using Stripe checkout.
+5. Check the status of a single invoice. 
 
 In our scenario the user will always be buying the same quantity, price, and type of item so feel free to use a constant for these values.
 
