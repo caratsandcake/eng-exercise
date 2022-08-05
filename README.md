@@ -34,7 +34,7 @@ In our scenario we don't need line items on the invoice, feel free to just use a
 2. [Create a free Stripe account](https://dashboard.stripe.com/register) - your `Test mode` API credentials will be on [this page](https://dashboard.stripe.com/test/dashboard) once signup flow completes.
 3. Please keep both the frontend and web server in this monorepo for us to review.
 4. Use the Stripe Checkout API docs [here](https://stripe.com/docs/payments/checkout) to get started with the API.
-5. When done, send your hiring contact a link to your forked version of this repository with your work.
+5. When done, send your hiring contact a link to your project repository.
 
 *For testing payments, please see the Stripe testing page [here](https://stripe.com/docs/testing).*
 
