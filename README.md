@@ -29,28 +29,14 @@ You will be building a lightweight invoicing application. This application shoul
 
 In our scenario we don't need line items on the invoice, feel free to just use a `total_amount` type column.
 
-## Requirements
-
-Your application should include the following:
-1. A frontend form that takes user input and makes a request with that data
-  -- Feel free to use the pre-built Stripe Checkout form for this functionality, but this is purely optional for time, not a requirement.
-2. A web server that receives form HTTP request and uses customer data to make payment request to the Stripe Checkout API
-3. A db instance or lightweight, model pattern based, data store for persisting any necessary invoice data to fulfill prompt success criteria.
-
-
 ## Getting started
-1. Fork this repo to begin the exercise.
+1. Create a new project repo, separate from this one. Please keep project in a monorepo for ease of review.  
 2. [Create a free Stripe account](https://dashboard.stripe.com/register) - your `Test mode` API credentials will be on [this page](https://dashboard.stripe.com/test/dashboard) once signup flow completes.
 3. Please keep both the frontend and web server in this monorepo for us to review.
 4. Use the Stripe Checkout API docs [here](https://stripe.com/docs/payments/checkout) to get started with the API.
 5. When done, send your hiring contact a link to your forked version of this repository with your work.
 
 *For testing payments, please see the Stripe testing page [here](https://stripe.com/docs/testing).*
-
-## Details
-- When landing on the page, a user should see a form prompting them for their billing info, contact info, and payment information.
-- If a user tries to pay with a credit card and for whatever reason it cannot be successfully processed (example: `insufficient funds`) they should be alerted to that reason and be able to correct their entry before re-submitting.
-- On successful payment the user should be redirected to a success message screen with any relevant information.
 
 ## Suggestions
 
