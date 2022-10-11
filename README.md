@@ -3,15 +3,15 @@
 ## Before you start
 It is not our intent for this exercise to consume a great deal of your time, but to serve as a topic of discussion for your next interview. Please do not spend more than two or three hours on this work. Optionaly, feel free to write a TODO section in the README for things you would have liked to get to with more time.
 
-We primarily use React and Rails, but feel free to use whatever languages and frameworks you are most comfortable with.
-
 When done, send your hiring contact a link to your project repository.
 
 ## Prompt
 
 Create a small web app which can:
-  - Collect billing information through a form and stores it as encrypted data in a database.
+  - Collect billing information through a form and stores it as **encrypted data** in a database.
   - Display a list of billing information (decrypted).
+  
+Feel free to use whatever languages or frameworks you're comfortable with to complete the project.
 
 Requirements:
 
