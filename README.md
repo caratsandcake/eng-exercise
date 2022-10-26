@@ -11,7 +11,7 @@ Create a small web app which can:
   - Collect billing information through a form and stores it as **encrypted data** in a database.
   - Display a list of billing information (decrypted).
   
-Feel free to use whatever languages or frameworks you're comfortable with to complete the project. This exercise is meant to measure your fundamental programming skills, not your knowledge of an individual stack. Use whichever frameworks or languages you feel the most comfortable using to solving the exercise.
+This exercise is meant to measure your fundamental programming skills, not your knowledge of an individual stack. Use whichever frameworks or languages you feel the most comfortable using to solving the exercise.
 
 Requirements:
 
