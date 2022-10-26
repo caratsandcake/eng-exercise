@@ -1,7 +1,7 @@
 # Carats and Cake Engineering Exercise
 
 ## Before you start
-It is not our intent for this exercise to consume a great deal of your time, but to serve as a topic of discussion for your next interview. Please do not spend more than two or three hours on this work. Optionaly, feel free to write a TODO section in the README for things you would have liked to get to with more time.
+It is not our intent for this exercise to consume a great deal of your time, but to serve as a topic of discussion for your next interview. Please do not spend more than two to four hours on this work. Optionaly, feel free to write a TODO section in the README for things you would have liked to get to with more time.
 
 When done, send your hiring contact a link to your project repository.
 
@@ -11,7 +11,7 @@ Create a small web app which can:
   - Collect billing information through a form and stores it as **encrypted data** in a database.
   - Display a list of billing information (decrypted).
   
-Feel free to use whatever languages or frameworks you're comfortable with to complete the project.
+This exercise is meant to measure your fundamental programming skills, not your knowledge of an individual stack. Use whichever frameworks or languages you feel the most comfortable using to solving the exercise.
 
 Requirements:
 
