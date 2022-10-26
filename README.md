@@ -29,7 +29,6 @@ Requirements:
 4. Add the amount of test coverage you feel is appropriate for the scope of this application (and be prepared to talk to testing choices made).
 5. Provide a README.md with one or both of the following:
     - Instructions on how to run the app locally.
-    - A link to the app if hosted on Heroku or similar
 
 ## Getting started
 
