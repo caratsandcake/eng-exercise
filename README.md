@@ -27,7 +27,7 @@ Requirements:
 2. Provide reasonable validation and error feedback for the fields, and provide a success page or message on successful form submission.
 3. In a separate view, display a list of submitted billing addresses from the database (decrypted).
 4. Add the amount of test coverage you feel is appropriate for the scope of this application (and be prepared to talk to testing choices made).
-5. Provide a README.md with one or both of the following:
+5. Provide a README.md with the following:
     - Instructions on how to run the app locally.
 
 ## Getting started
